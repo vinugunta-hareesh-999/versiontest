@@ -36,6 +36,15 @@
           "z": 0.00
         },
         {
+          "config": "{\"name\":\"b340c87b42107cc7300b\",\"layouts\":[{\"id\":0,\"position\":{\"x\":10,\"y\":314,\"width\":280,\"height\":280,\"z\":1001,\"tabOrder\":1001}}],\"singleVisual\":{\"visualType\":\"tableEx\",\"projections\":{\"Values\":[{\"queryRef\":\"Sheet4.Column11\"},{\"queryRef\":\"Sheet4.Column12\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"s\",\"Entity\":\"Sheet4\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"s\"}},\"Property\":\"Column11\"},\"Name\":\"Sheet4.Column11\",\"NativeReferenceName\":\"Column11\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"s\"}},\"Property\":\"Column12\"},\"Name\":\"Sheet4.Column12\",\"NativeReferenceName\":\"Column12\"}]},\"drillFilterOtherVisuals\":true}}",
+          "filters": "[]",
+          "height": 280.00,
+          "width": 280.00,
+          "x": 10.00,
+          "y": 314.00,
+          "z": 1001.00
+        },
+        {
           "config": "{\"name\":\"c9ccd40e9bd879e4c701\",\"layouts\":[{\"id\":0,\"position\":{\"x\":558.6369593709044,\"y\":33.551769331585845,\"z\":1000,\"width\":280.1572739187418,\"height\":280.1572739187418,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"slicer\",\"projections\":{\"Values\":[{\"queryRef\":\"Table.Sample attribute\",\"active\":true}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"t\",\"Entity\":\"Table\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"t\"}},\"Property\":\"Sample attribute\"},\"Name\":\"Table.Sample attribute\",\"NativeReferenceName\":\"Sample attribute\"}]},\"drillFilterOtherVisuals\":true,\"objects\":{\"data\":[{\"properties\":{\"mode\":{\"expr\":{\"Literal\":{\"Value\":\"'Basic'\"}}}}}]}}}",
           "filters": "[]",
           "height": 280.16,

@@ -458,6 +458,13 @@
           }
         ],
         "lineageTag": "56ee2dd1-7974-408e-9bc1-bb6740c48137",
+        "measures": [
+          {
+            "name": "new measure added",
+            "expression": "\"Table\"",
+            "lineageTag": "19152694-d155-4ca8-a93a-287ecb4a9aab"
+          }
+        ],
         "partitions": [
           {
             "name": "Sheet4-480b9279-e21f-4bc5-9e2b-f327ba3f30cd",
